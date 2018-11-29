@@ -4,7 +4,7 @@
 Gamify the visitation of historical places throught the city and use VR/AR to enrich the user's experience.
 
 ### Gamebook/story
-It guides you through the city - to visit a sequence of locations that would tell the (specific) story of an era (age), area or person.
+It coulde guide you through the city - to visit a sequence of locations - to tell the (specific) story of an era (age), area or person.
 
 ### AR/VR 
 Use VR/AR to present more information about a particular place/facility.
