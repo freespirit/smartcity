@@ -14,6 +14,7 @@ Gamifying the tourism could make (hook) people to walk around more (be more acti
 
 ## Other
  - May include VR/AR to present more information about a particular place/facility.
+  - Even more - use more VR/AR content to demonstrate the environemnt of the age.
  - Could be used for educational purposes, e.g. have a class of students walk around and see all the churches (or monuments), important to a particular age. To be more than just a teacher who would walk with them and explain, there could be more rich content, e.g. AR/VR information or visualisations.
  - Rating for visitors, e.g. "4th level tourist"
 
