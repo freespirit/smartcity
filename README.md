@@ -16,6 +16,9 @@ Introducing gamification in the tourism could make (hook) people to walk around 
 ## Children
  - Have an additional small animal figurine near the basic monument/location that woudl be fun for kids. It could be "checked in" in the application and marked as visited/seen by the kid.
 
+## TODO/Problems
+ - Find the locations of the monuments - data from the government?
+ 
 # Previous ideas
  - Google maps reviews of playgrounds - use gamification to motivate people to visit their local ones
   - Cons:
