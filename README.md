@@ -24,8 +24,8 @@ Gamifying the tourism could make (hook) people to walk around more (be more acti
  - Rating for visitors, e.g. "4th level tourist"
 
 ## TODO/Problems
- - Find the locations of the monuments - data from the government?
-  - No data can be found with a quick search in http://opendata.government.bg
+ - Find the locations of the monuments - **data** from the government?
+   - No data can be found with a quick search in http://opendata.government.bg
  - If Google Maps' Places API is used - it's paid.
  
 # Previous ideas
