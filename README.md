@@ -1,10 +1,17 @@
 # Gamified historical walks
 
 ## Outline
-Gamify the visitation of historical places throught the city - achievements for visiting all of the historical places in one area or all of the places of one category in a given area, e.g. all monuments or all cathedrals, etc.
+Gamify the visitation of historical places throught the city and use VR/AR to enrich the user's experience.
 
 ### Gamebook/story
 It guides you through the city - to visit a sequence of locations that would tell the (specific) story of an era (age), area or person.
+
+### AR/VR 
+Use VR/AR to present more information about a particular place/facility.
+Use even more VR/AR content to demonstrate the environemnt of the age. Like, see a battle that took place on this location, or what the buildings looked like, or trade streets etc.
+
+### Gamification
+Achievements for visiting all of the historical places in one area or all of the places of one category in a given area, e.g. all monuments or all cathedrals, etc.
 
 ## Benefits
 Gamifying the tourism could make (hook) people to walk around more (be more active) and at the same time - visit more of the local "attractions" (historical places). This would be beneficial for tourism as more people would like to visit more places.
@@ -13,8 +20,6 @@ Gamifying the tourism could make (hook) people to walk around more (be more acti
  - Have an additional small animal figurine near the basic monument/location that woudl be fun for kids. It could be "checked in" in the application and marked as visited/seen by the kids - have them collect them all.
 
 ## Other
- - May include VR/AR to present more information about a particular place/facility.
-  - Even more - use more VR/AR content to demonstrate the environemnt of the age.
  - Could be used for educational purposes, e.g. have a class of students walk around and see all the churches (or monuments), important to a particular age. To be more than just a teacher who would walk with them and explain, there could be more rich content, e.g. AR/VR information or visualisations.
  - Rating for visitors, e.g. "4th level tourist"
 
