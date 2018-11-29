@@ -13,6 +13,8 @@ Introducing gamification in the tourism could make (hook) people to walk around 
 ## Gamebook/story
  - It guides you through the city - to visit a sequence of locations that would tell the story of an era (age), area or person.
 
+## Children
+ - Have an additional small animal figurine near the basic monument/location that woudl be fun for kids. It could be "checked in" in the application and marked as visited/seen by the kid.
 
 # Previous ideas
  - Google maps reviews of playgrounds - use gamification to motivate people to visit their local ones
